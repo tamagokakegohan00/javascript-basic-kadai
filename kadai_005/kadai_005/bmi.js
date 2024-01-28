@@ -3,7 +3,7 @@ let weight=1.7;
 
 let height=68;
 
+let bmi=( height / weight / weight );
 
 
-//四則演算
-console.log( height / weight / weight );
+console.log( bmi);
