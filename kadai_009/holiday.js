@@ -9,7 +9,7 @@ for (let i=0 ; i <=15 ; i++) {
 
 let n = 0 ;
 
-while (n <= holidays.length ){
-  n++ ;
+while (n < holidays.length ){
  console.log(holidays[n]);
+ n++ ;
 }
